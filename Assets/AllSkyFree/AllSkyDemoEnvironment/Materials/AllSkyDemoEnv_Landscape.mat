@@ -104,7 +104,7 @@ Material:
     - _SnowSpecularColour: {r: 0.75, g: 0.75, b: 0.75, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SpecularColour: {r: 0.3602941, g: 0.3602941, b: 0.3602941, a: 1}
---- !u!114 &429167642127120470
+--- !u!114 &8919893214561820352
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
