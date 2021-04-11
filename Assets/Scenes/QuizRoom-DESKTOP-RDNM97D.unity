@@ -2381,24 +2381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61249c6e9e8beb44f8ed5b987bbf8c61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  questions:
-  - ans:
-    - text: 
-      correct: 0
-    - text: 
-      correct: 0
-    - text: 
-      correct: 0
-    - text: 
-      correct: 0
-    text: 
-    points: 0
-  - ans: []
-    text: 
-    points: 0
-  - ans: []
-    text: 
-    points: 0
+  questions: []
 --- !u!4 &1453735114
 Transform:
   m_ObjectHideFlags: 0

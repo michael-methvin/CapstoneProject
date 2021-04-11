@@ -5,7 +5,7 @@ using UnityEngine;
 public class quiz : MonoBehaviour
 {
     public question[] questions;
-    public user player;
+    public user player = new user;
 
     // Start is called before the first frame update
     void Start()
