@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class user
     public int score;
+    public answer[] ansQuestions;
+
 
     public user()
     {
